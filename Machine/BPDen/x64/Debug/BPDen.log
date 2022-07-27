@@ -1,0 +1,28 @@
+﻿  BPDen.cpp
+d:\code\project_vs\machine\bpden\bpden.cpp(160): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\code\project_vs\machine\bpden\bpden.cpp(387): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\code\project_vs\machine\bpden\bpden.cpp(352): warning C4101: 'sendBuff': unreferenced local variable
+d:\code\project_vs\machine\bpden\bpden.cpp(423): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\project_vs\machine\bpden\bpden.cpp(424): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\project_vs\machine\bpden\bpden.cpp(458): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\project_vs\machine\bpden\bpden.cpp(519): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\project_vs\machine\bpden\bpden.cpp(539): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(545): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(571): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(549): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(577): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(583): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(589): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(595): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(601): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(606): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(612): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(649): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(654): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(675): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(681): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(685): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(690): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpden\bpden.cpp(746): warning C4172: returning address of local variable or temporary: response
+  BPDen.vcxproj -> D:\Code\Project_VS\Machine\x64\Debug\BPDen.exe
+  BPDen.vcxproj -> D:\Code\Project_VS\Machine\x64\Debug\BPDen.pdb (Full PDB)

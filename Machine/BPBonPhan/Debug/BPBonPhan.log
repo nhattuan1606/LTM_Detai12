@@ -1,0 +1,23 @@
+﻿  BPBonPhan.cpp
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(316): warning C4101: 'sendBuff': unreferenced local variable
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(433): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(443): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(449): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(453): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(525): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(530): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(463): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(540): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(467): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(545): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(472): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(549): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(478): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(554): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(482): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(487): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(492): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(498): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bpbonphan\bpbonphan.cpp(607): warning C4172: returning address of local variable or temporary: response
+  BPBonPhan.vcxproj -> D:\Code\Project_VS\Machine\Debug\BPBonPhan.exe
+  BPBonPhan.vcxproj -> D:\Code\Project_VS\Machine\Debug\BPBonPhan.pdb (Full PDB)

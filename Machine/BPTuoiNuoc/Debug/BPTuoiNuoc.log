@@ -1,0 +1,23 @@
+﻿  BPTuoiNuoc.cpp
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(316): warning C4101: 'sendBuff': unreferenced local variable
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(433): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(443): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(449): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(453): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(463): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(467): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(472): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(478): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(482): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(487): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(525): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(492): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(540): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(498): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(545): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(530): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(549): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(554): warning C4172: returning address of local variable or temporary: response
+d:\code\project_vs\machine\bptuoinuoc\bptuoinuoc.cpp(607): warning C4172: returning address of local variable or temporary: response
+  BPTuoiNuoc.vcxproj -> D:\Code\Project_VS\Machine\Debug\BPTuoiNuoc.exe
+  BPTuoiNuoc.vcxproj -> D:\Code\Project_VS\Machine\Debug\BPTuoiNuoc.pdb (Full PDB)
