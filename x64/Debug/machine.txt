@@ -1,0 +1,24 @@
+MB
+abc
+127.0.0.1 5503
+Phuc Trieu
+BP
+456
+127.0.0.1 5502
+Duc Phuc
+DEN
+abc1234
+127.0.0.1 5501
+Trieu Phuc
+MB1
+abc
+10.133.100.227 5500
+Phuc Trieu Tuan
+BP1
+bp1@
+192.168.50.119 6000
+Phuc Tuan
+DEN1
+bd1@
+192.168.50.119 6600
+Trieu Tuan Duc Phuc

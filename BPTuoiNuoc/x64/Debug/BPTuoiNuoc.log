@@ -1,0 +1,28 @@
+﻿  BPTuoiNuoc.cpp
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(157): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(384): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(349): warning C4101: 'sendBuff': unreferenced local variable
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(420): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(421): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(455): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(485): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(505): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(511): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(515): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(537): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(609): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(614): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(541): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(547): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(553): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(557): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(563): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(635): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(641): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(645): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(650): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(568): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(574): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bptuoinuoc\bptuoinuoc.cpp(704): warning C4172: returning address of local variable or temporary: response
+  BPTuoiNuoc.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\BPTuoiNuoc.exe
+  BPTuoiNuoc.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\BPTuoiNuoc.pdb (Full PDB)

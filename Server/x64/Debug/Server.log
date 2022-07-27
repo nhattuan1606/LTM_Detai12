@@ -1,0 +1,71 @@
+﻿  Server.cpp
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(165): warning C4101: 'sendBuff': unreferenced local variable
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(279): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(280): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(309): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(310): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(372): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(373): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(393): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(448): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(485): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(486): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(487): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(488): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(534): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(535): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(536): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(625): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(629): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(631): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(675): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(662): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(667): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(678): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(681): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(685): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(364): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(314): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(319): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(331): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(348): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(377): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(382): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(409): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(417): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(438): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(492): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(502): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(516): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(526): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(540): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(550): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(555): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(612): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(567): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\server\server.cpp(577): warning C4172: returning address of local variable or temporary: response
+  Server.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\Server.exe
+  Server.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\Server.pdb (Full PDB)

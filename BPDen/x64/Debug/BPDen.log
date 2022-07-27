@@ -1,0 +1,28 @@
+﻿  BPDen.cpp
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(158): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(385): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(350): warning C4101: 'sendBuff': unreferenced local variable
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(421): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(422): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(456): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(517): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(537): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(543): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(547): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(569): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(575): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(581): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(587): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(593): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(599): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(604): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(610): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(673): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(647): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(679): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(652): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(683): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(688): warning C4172: returning address of local variable or temporary: response
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\bpden\bpden.cpp(742): warning C4172: returning address of local variable or temporary: response
+  BPDen.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\BPDen.exe
+  BPDen.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\BPDen.pdb (Full PDB)

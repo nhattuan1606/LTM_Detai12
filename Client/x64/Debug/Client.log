@@ -1,0 +1,13 @@
+﻿  Client.cpp
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(116): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(276): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(294): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(307): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(348): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(364): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(380): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\studyingdata\industryfoundationncore\20212\networkprogramming\test\project\client\client.cpp(440): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\Client.exe
+  Client.vcxproj -> E:\StudyingData\IndustryFoundationNCore\20212\NetworkProgramming\test\Project\x64\Debug\Client.pdb (Full PDB)
